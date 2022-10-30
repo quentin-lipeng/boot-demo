@@ -1,0 +1,1 @@
+# INSERT INTO `boot-demo`.my_message VALUE (1,'hello');
